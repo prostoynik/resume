@@ -21,6 +21,24 @@
 }
 
 @media only screen and (max-width: 480px) {
+    .container{
+        width: 480px;
+        margin: 0 auto;
+    }
+
+    .menu{
+    display: flex;
+    flex-direction: column;
+    }
+
+    .menu li{
+        width: 95%;
+    }
+
+    .menu li a{
+        width: 95%;
+        font-size: 15px;
+    }
 }
 
 @media only screen and (max-width: 768px) {

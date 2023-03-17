@@ -1,0 +1,172 @@
+@media only screen and (max-width: 320px) {
+
+    html,body{
+        /*margin: 0;*/
+        /*padding: 0;*/
+        /*height: 100%;*/
+        /*width: 100%;*/
+
+        /*overflow-x: hidden;*/
+        /*background-color: darkgray;*/
+    }
+    .container{
+        width: 320px;
+        margin: 0 auto;
+    }
+
+
+/*.toggle{*/
+/*    clear: both;*/
+/*    display: block;*/
+/*    text-align: center;*/
+/*    font-size: 18px;*/
+/*    line-height: 40px;*/
+/*    width: 100%;*/
+/*    color: black;*/
+/*    background: coral;*/
+/*    transition: all .1s linear;*/
+/*}*/
+
+/*    .toggle:hover{*/
+/*        background: darkorange;*/
+/*    }*/
+
+/*    #checkbox-menu:checked + label .touch li{*/
+/*        opacity: 1;*/
+/*        visibility: visible;*/
+/*        transition: all .7s linear;*/
+/*    }*/
+
+/*    #checkbox-menu:checked + label .touch{*/
+/*        height: 350px;*/
+
+/*    }*/
+
+    .menu{
+    display: flex;
+    flex-direction: column;
+
+    /*justify-content: space-around;*/
+    /* align-items: center;*/
+       /* height: 0;*/
+       /*transition: height .3s linear;*/
+    }
+
+    .menu li{
+
+        width: 95%;
+
+        /*opacity: 0;*/
+        /*visibility: hidden;*/
+    }
+
+    /*.komp li{*/
+    /*    display: block;*/
+
+    .menu li a{
+        /*color: white;*/
+        width: 95%;
+        font-size: 15px;
+        /*text-align: center;*/
+        /*align-self: center;*/
+        /*align-content: center;*/
+
+    }
+
+
+ main{
+     /*text-align: justify;*/
+ }
+
+/*.work{*/
+/*    display: none;*/
+/*}*/
+}
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+
+    @media only screen and (max-width: 768px) {
+    /*    html,body{*/
+    /*        !*margin: 0;*!*/
+    /*        !*padding: 0;*!*/
+    /*        !*height: 100%;*!*/
+    /*        !*width: 100%;*!*/
+
+    /*        !*overflow-x: hidden;*!*/
+    /*        background-color: darkgray;*/
+    /*    }*/
+
+    /*    .menu li a {*/
+    /*        color: white;*/
+    /*    }*/
+    /*    !*.toggle{*!*/
+    /*    !*    clear: both;*!*/
+    /*    !*    display: block;*!*/
+    /*    !*    text-align: center;*!*/
+    /*    !*    font-size: 18px;*!*/
+    /*    !*    line-height: 40px;*!*/
+    /*    !*    width: 100%;*!*/
+    /*    !*    color: black;*!*/
+    /*    !*    background: coral;*!*/
+    /*    !*    transition: all .1s linear;*!*/
+    /*    !*}*!*/
+
+    /*    !*    .toggle:hover{*!*/
+    /*    !*        background: darkorange;*!*/
+    /*    !*    }*!*/
+
+    /*    !*    #checkbox-menu:checked + label .touch li{*!*/
+    /*    !*        opacity: 1;*!*/
+    /*    !*        visibility: visible;*!*/
+    /*    !*        transition: all .7s linear;*!*/
+    /*    !*    }*!*/
+
+    /*    !*    #checkbox-menu:checked + label .touch{*!*/
+    /*    !*        height: 350px;*!*/
+
+    /*    !*    }*!*/
+
+    /*    .menu{*/
+    /*        !*display: flex;*!*/
+    /*        !*flex-direction: column;*!*/
+    /*        !*justify-content: space-around;*!*/
+    /*        !* align-items: center;*!*/
+    /*        !*!*    height: 0;*!*!*/
+    /*        !*!*    transition: height .3s linear;*!*!*/
+    /*    }*/
+
+    /*    .menu li{*/
+    /*        !*display: flex;*!*/
+
+    /*        align-self: center;*/
+    /*        width: 95%;*/
+    /*        !*opacity: 0;*!*/
+    /*        !*visibility: hidden;*!*/
+    /*    }*/
+    /*    .menu li a{*/
+    /*        width: 95%;*/
+    /*        text-align: center;*/
+    /*        align-self: center;*/
+    /*        align-content: center;*/
+
+    /*    }*/
+    /*    main{*/
+    /*        !*text-align: justify;*!*/
+    /*    }*/
+
+    /*    .work{*/
+    /*        display: none;*/
+    /*    }*/
+    /*}*/
+    /*}*/
+
+    @media only screen and (max-width: 992px) {
+
+    }
+
+    @media only screen and(max-width: 1200px) {
+
+    }
